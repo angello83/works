@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/angello83/works.git"
   },
   "author": "Angel Lopez",
   "devDependencies": {
