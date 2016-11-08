@@ -1,0 +1,16 @@
+{
+  "name": "works",
+  "version": "0.0.1",
+  "description": "An environment for works",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Angel Lopez",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.2",
+    "gulp-util": "^3.0.7"
+  }
+}
